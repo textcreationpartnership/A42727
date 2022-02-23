@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon on the sin of stealing custom, and the duty of paying tribute from the 13. Rom. 7. v. / preached at St. Peter's Exon by John Gilbert ...</title>
+            <author>Gilbert, John, b. 1658 or 9.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42727</idno>
+            <idno type="STC">Wing G709</idno>
+            <idno type="STC">ESTC R40886</idno>
+            <idno type="EEBO-CITATION">19526538</idno>
+            <idno type="OCLC">ocm 19526538</idno>
+            <idno type="VID">108996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108996)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1688:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon on the sin of stealing custom, and the duty of paying tribute from the 13. Rom. 7. v. / preached at St. Peter's Exon by John Gilbert ...</title>
+                  <author>Gilbert, John, b. 1658 or 9.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Sam. Darker, and Sam. Farley for Charles Yeo ...,</publisher>
+                  <pubPlace>Exon :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Romans XIII, 7 --  Sermons.</term>
+               <term>Church and state --  Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108996:1"/>
+            <pb facs="tcp:108996:1" rendition="simple:additions"/>
+            <p>A SERMON ON THE Sin of Stealing Cuſtom, AND THE <hi>Duty of Paying Tribute:</hi> From the 13. <hi>Rom.</hi> 7. v.</p>
+            <p>Preached at St. <hi>Peter</hi>'s <hi>Exon:</hi> By <hi>JOHN GILBERT,</hi> M. A. one of the Canons Reſidentiary of that Church; and Vicar of St. <hi>Andrew</hi>'s <hi>Plymouth.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p> 
+               <bibl>Chryſoſt. Hom. 13. Rom.</bibl>
+            </q>
+            <q>
+               <p>Majores noſtri ideo copiis omnibus abundabunt, quia Deo Decimas dabant &amp; Caeſari Cenſum reddebant.</p> 
+               <bibl>Apud Auguſt. Tom. 10. Hom. 48.</bibl>
+            </q>
+            <p>
+               <hi>EXON:</hi> Printed by <hi>Sam. Darker,</hi> and <hi>Sam. Farley,</hi> for <hi>Charles Yeo,</hi> Bookſeller, 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:108996:2"/>
+            <pb n="1" facs="tcp:108996:2" rendition="simple:additions"/>
+            <epigraph>
+               <bibl>ROM. 13 Chap. 7 Ver.</bibl>
+               <q>Render to all their Dues, Tribute to whom Tribute, Cuſtom to whom Cuſtom.</q>
+            </epigraph>
+            <p>AMONG many other Things, with which the Enemies of Chriſtianity aſpers'd thoſe who profeſs'd that pure and holy Religion; this was one, that they were of implacable and turbulent Spirits, and Enemies to the Civil Government: For they not complying with the Heatheniſh Cuſtoms of Swearing by the Emperor's Genius, Sa<g ref="char:EOLhyphen"/>crificing for their Safety, and Worſhipping of them as Deities, were repreſented as Ene<g ref="char:EOLhyphen"/>mies to <hi>Caeſar;</hi> and their Religion and Principles as deſtructive of Government. Therefore, the Apoſtles, that they might
+<pb n="2" facs="tcp:108996:3"/>
+wipe off this Aſperſion, and that the Powers then in being, might not have any jealouſie of Chriſtianity, as an Enemy to their Au<g ref="char:EOLhyphen"/>thority and Power, took frequent occaſions to inforce the Duty of Subjection to it, and of being Conſcientious in the Payment of thoſe Tributes and Cuſtoms, which were required for the Support of it, as we find in the Text.</p>
+            <p>
+               <hi>Render to all their Dues, Tribute to whom Tribute is due, Cuſtom to whom Cuſtom.</hi>
+            </p>
+            <p>In diſcourſing on which words,</p>
+            <p n="1">1. I ſhall ſhew what is meant by Tri<g ref="char:EOLhyphen"/>bute and Cuſtom.</p>
+            <p n="2">2. I ſhall conſider the Nature of the Command, which enjoins the Payment of theſe Things.</p>
+            <p n="3">3. I ſhall ſhew the Opinion of ſome E<g ref="char:EOLhyphen"/>minent Divines, concerning the Obligation of this Precept.</p>
+            <p>
+               <pb n="3" facs="tcp:108996:3"/>
+Laſtly, I ſhall conclude with a brief Ap<g ref="char:EOLhyphen"/>plication.</p>
+            <p n="1">1. To ſhew what is meant by Tribute and Cuſtom.</p>
+            <p>And hereby I underſtand the Legal Tax<g ref="char:EOLhyphen"/>es <note place="margin">Non modô Portoria &amp; indictiones, ſed alios quo<g ref="char:EOLhyphen"/>que reditus. Calv.</note> which are appointed for the Support of the Government, under which we live, and enjoy Protection and Safety.</p>
+            <p>But ſome are more Critical in the Expli<g ref="char:EOLhyphen"/>cation <note place="margin">Vectigalia pro mercibus dantur, Tri<g ref="char:EOLhyphen"/>buta pro ſolo &amp; capite. Grot.</note> of the words, and they tell us, That Cuſtom, denotes the Tax laid upon Trade; and Tribute, that which is laid on the Per<g ref="char:EOLhyphen"/>ſons or Eſtates of Men. To the like pur<g ref="char:EOLhyphen"/>poſe, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> dici<g ref="char:EOLhyphen"/>tur Tributum quod in capi<g ref="char:EOLhyphen"/>ta civium im<g ref="char:EOLhyphen"/>ponitur: <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> quic<g ref="char:EOLhyphen"/>quid alio No<g ref="char:EOLhyphen"/>mine ſolvitur: <hi>Beza:</hi> Stri<g ref="char:EOLhyphen"/>gel. Aret. Ger<g ref="char:EOLhyphen"/>hard.</note> 
+               <hi>Beza,</hi> and others, explain theſe words, That Tribute is a Polrate, Cuſtom what is payable upon any other account.</p>
+            <p>And having ſhew'd what is meant by Tribute and Cuſtom. I come in the</p>
+            <p>2d. Place; to conſider the Nature of the <note place="margin">Eſt injuſtum quod Naturae Societatis re<g ref="char:EOLhyphen"/>pugnat. Gro<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> Command, which injoins the Payment of theſe Things.</p>
+            <p>
+               <pb n="4" facs="tcp:108996:4"/>
+And here it will appear, that this is one of the Moral Laws, and of univerſal Obliga<g ref="char:EOLhyphen"/>tion. Becauſe</p>
+            <p n="1">1. It hath its foundation in the Nature of Things, being a moſt neceſſary Means <note place="margin">Prima juſtitia eſt in Deum: Secunda in Patriam: Amb. Lib. 1. de off.</note> for the common Safety. The great Prin<g ref="char:EOLhyphen"/>ciple, or Law of Nature, is the Welfare and Happineſs of Mankind, and whatever is ne<g ref="char:EOLhyphen"/>ceſſary to this, we are oblig'd to it by the Law of Nature.</p>
+            <p>Now there is nothing more neceſſary to the Happineſs of Mankind than Govern<g ref="char:EOLhyphen"/>ment. But Government cannot ſubſiſt, and <note place="margin">Vectig. &amp; Tribut. veluti firmamento Reſpub. Niti<g ref="char:EOLhyphen"/>tur. Bodi. de Repub. li. 6. p. 1028.</note> the common Peace cannot be preſerv'd, without a Power and Force to defend us a<g ref="char:EOLhyphen"/>gainſt the Enemies of it. And this Power cannot be maintain'd without Tributes and Cuſtoms; and hence it is evident, the Pay<g ref="char:EOLhyphen"/>ment <note place="margin">Nec quies Gentium ſine armis, nec ar<g ref="char:EOLhyphen"/>ma ſine ſti<g ref="char:EOLhyphen"/>pendiis, nec ſtipendia ſine Tributis ha<g ref="char:EOLhyphen"/>beri poſſunt. Tacit.</note> of them becomes due by the Law of Nature. And the very Heathens were not ſo blinded with Avarice as we are; and by the Light of Nature they were convinced of the Neceſſity of this Duty, and the Obligations
+<pb n="5" facs="tcp:108996:4"/>
+we are under for the Practice of it. <hi>Cicero</hi> 
+               <note place="margin">Subſidium Belli &amp; Ner<g ref="char:EOLhyphen"/>vus reipub. Orat pro Manl. Tri<g ref="char:EOLhyphen"/>butis Magi<g ref="char:EOLhyphen"/>ſtratibus de<g ref="char:EOLhyphen"/>negatis, ex<g ref="char:EOLhyphen"/>tremam Re<g ref="char:EOLhyphen"/>ip. perniciem impendere. Liv. Lib. 7. p. 78.</note> ſtiles Tribute the Support of War, and the Sinews of the Common-Wealth. And <hi>Me<g ref="char:EOLhyphen"/>nenius Agrippa</hi> in <hi>Levie</hi> declares, inevitable Ruine muſt needs follow the denying of Tribute for the Support of Government. But</p>
+            <p n="2">2. The Apoſtle, in the Verſe before the Text, ſaith, <hi>That Governours are God's Mi<g ref="char:EOLhyphen"/>niſters, attending continually on that very Thing.</hi> That is, they ſpend their Time and <note place="margin">Magiſtratus Graviſſimas curas &amp; La<g ref="char:EOLhyphen"/>bores pro ſubditorum incolumitate ſuſtinet, ae<g ref="char:EOLhyphen"/>quum eſt ut qualicunque mercedis Lo<g ref="char:EOLhyphen"/>co Tributa perſolvantur. Ger. de Ma<g ref="char:EOLhyphen"/>giſt. Pol. p. 921.</note> their Strength for the Good of the Com<g ref="char:EOLhyphen"/>mon-Wealth: they undergo great Care and Trouble; are expos'd to great Hazards and Dangers, that we may enjoy the Com<g ref="char:EOLhyphen"/>forts of this Life, and ſit quiet under our Vines and our Fig-trees. <hi>And for this cauſe,</hi> ſaith the Apoſtle, <hi>pay you Tribute alſo;</hi> and in the Text, <hi>Render, therefore, Tribute to whom Tribute is due.</hi> So that the Apoſtle <note place="margin">Tributum non gratui<g ref="char:EOLhyphen"/>tum ſed Red<g ref="char:EOLhyphen"/>hoſtimentum Patrei nii &amp; Defenſion<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s. Freher. Diſ<g ref="char:EOLhyphen"/>ſert.</note> inferring this Duty from the conſideration of the Induſtry and Diligence, the Care and Trouble, which Governours undergo in the diſcharge of their Office, it is an Act of Com<g ref="char:EOLhyphen"/>mutative
+<pb n="6" facs="tcp:108996:5"/>
+Juſtice; and upon this account, as well as that before mentioned, it is a part of the Law of Nature, and by which all Men are oblig'd. And of this Nature</p>
+            <p n="3">3. It will appear to be, becauſe it is, a proof of our Subjection to the Govern<g ref="char:EOLhyphen"/>ment, <note place="margin">Suum quod Magiſtratui jubemur da<g ref="char:EOLhyphen"/>re, ſunt Obe<g ref="char:EOLhyphen"/>dientia in Li<g ref="char:EOLhyphen"/>citis &amp; Ho<g ref="char:EOLhyphen"/>neſtis, Reve<g ref="char:EOLhyphen"/>rentia &amp; Ti<g ref="char:EOLhyphen"/>mor pro ipſo &amp; Tributa. &amp; Vectigalia chemnit. Loc. Theo. pars 3. p. 231.</note> under which we live. It is by the A<g ref="char:EOLhyphen"/>poſtle conjoined with the Precepts for Sub<g ref="char:EOLhyphen"/>jection, mentioned in the former Verſes, and the denying of this Tribute diſowns the Authority, by which it is injoined. So that if Subjection to Government be a moral Duty, this muſt needs be ſo too.</p>
+            <p>And having ſhew'd, that the Duty in the Text is a Branch of the Law of Nature, I proceed in the</p>
+            <p>
+               <hi>3d.</hi> Place, to ſhew what the Opinion of the moſt eminent Divines, both Ancient and Modern, hath been concerning the Obliga<g ref="char:EOLhyphen"/>tion of this Precept, whether it bind the Con<g ref="char:EOLhyphen"/>ſcience for paying thoſe Tributes and Cu<g ref="char:EOLhyphen"/>ſtoms, which are impoſed by Law or not.</p>
+            <p>
+               <pb n="7" facs="tcp:108996:5"/>
+               <hi>Juſtin Martyr,</hi> who liv'd ſo nigh the A<g ref="char:EOLhyphen"/>poſtles, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Orat. Ad. Ant.</note> that he was ſtiled one of their Diſci<g ref="char:EOLhyphen"/>ples, in his Apology to the Emperor <hi>Anto<g ref="char:EOLhyphen"/>ninus,</hi> doth not only mention the peaceable Subjection of the Chriſtians to the Empe<g ref="char:EOLhyphen"/>ror, their conſtant prayers for his Health, and the Proſperity of the Government; but alſo their conſcientious paying of the Tri<g ref="char:EOLhyphen"/>bute, for the Support of the Empire, and this as oblig'd to it by the command of Chriſt, <hi>To render to Caeſar the things that are Caeſars.</hi>
+            </p>
+            <p>Not long after this, another Apology was written for the Chriſtians by <hi>Tertullian:</hi> 
+               <note place="margin">Vectigalia gratias Chri<g ref="char:EOLhyphen"/>ſtianis agunt ex fide de pendentibus Debitum, quâ, alieno fraudando abſtinemus. Tert. Apol. Sect. 42. p. 72.</note> and he ſaith, they paid the Tribute, with the ſame Fidelity, with which they abſtain'd from all Frauds, thereby declaring it was as much againſt their conſciences to be guilty of pub<g ref="char:EOLhyphen"/>lick as private Frauds.</p>
+            <p>And St. <hi>Ambroſe,</hi> (or whoever was the Author of thoſe Commentaries on the Epi<g ref="char:EOLhyphen"/>ſtle <note place="margin">Bel. &amp;c. a<g ref="char:EOLhyphen"/>ſcribe them to Hil. Diac. Tom. 5. p. 232.</note> to the <hi>Romans,</hi> which go under his Name) ſpeaking of the reaſon why St. <hi>Paul</hi> commands the paying of Tribute before Honour, ſaith, <hi>Quia Major Cauſa aut major
+<pb n="8" facs="tcp:108996:6"/>
+neceſſitas,</hi> Becauſe there is greater Reaſon or greater Neceſſity for it. The legal Revenue is the Strength and Sinews of the Govern<g ref="char:EOLhyphen"/>ment; and the with-holding of this, weak<g ref="char:EOLhyphen"/>ens it, and expoſeth it to contempt: It tends to make a Prince a Beggar. This is, there<g ref="char:EOLhyphen"/>fore, of greater moment, than giving to Kings bended Knees, or pompous Titles; theſe, without the other, are little better than Mockery or Scorn; little better than the Soldiers honouring of Chriſt, when they bended the Knee, and ſaid, <hi>Hail King of the Jews.</hi>
+            </p>
+            <p>But I proceed to conſider the Opinion of ſome Modern Divines, who liv'd ſince the Reformation, and who have greater Autho<g ref="char:EOLhyphen"/>rity with ſome than more ancient Writers; and therefore, I ſhall give you ſome account of them, both Foreign and of our Church and Nation. <note place="margin">Vectigalia &amp; Tributa per<g ref="char:EOLhyphen"/>ſolvant, <hi>&amp;c.</hi> non quia Co<g ref="char:EOLhyphen"/>gimur, ſed quia Deo gratum eſt obſequium. Calv. Rom. 13. 7. v.</note>
+            </p>
+            <p>
+               <hi>Calvin</hi> ſpeaks plainly for it in his Com<g ref="char:EOLhyphen"/>mentary on the Text, he joins this with o<g ref="char:EOLhyphen"/>ther Duties to be perform'd to our Gover<g ref="char:EOLhyphen"/>nours, not by compulſion, but as an accepta<g ref="char:EOLhyphen"/>ble Service to God.</p>
+            <p>
+               <pb n="9" facs="tcp:108996:6"/>
+               <hi>Peter Martyr,</hi> who came into <hi>England,</hi> and was highly inſtrumental in our Refor<g ref="char:EOLhyphen"/>mation, ſpeaking of the paying Tributes le<g ref="char:EOLhyphen"/>gally impos'd, admires, <hi>Quo Jure &amp; ratione,</hi> 
+               <note place="margin">Loc. com. p. 307.</note> by what Law, or upon what account, any can think themſelves exempted from it.</p>
+            <p>
+               <hi>Aretius,</hi> in his Common Places, hath a <note place="margin">p. 877.</note> large Tract on this Subject; and he proves, by many Arguments, that Men ought to pay the Tributes and Cuſtoms by lawful Authority impoſed on them, and this not <hi>propter Iram,</hi> for fear of the Penalty of the Law, <hi>ſed ut conſcientiae ſatisfaciamus coram Deo,</hi> that we may keep a good conſcience towards God.</p>
+            <p>The ſame may be found in the Works of <hi>Epiſcopius,</hi> who fully anſwers the Objecti<g ref="char:EOLhyphen"/>ons that can be made to exempt the conſci<g ref="char:EOLhyphen"/>ences of Men from the Obligation of this <note place="margin">Epiſc. quaeſt. 28. p. 26, 27.</note> Precept.</p>
+            <p>
+               <pb n="10" facs="tcp:108996:7"/>
+I might have given you large Citations from <hi>Grotius, Gerhard, Philip</hi> of <hi>Limburg,</hi> but I am confined to narrow Limits, and muſt haſten to give an account of the Judg<g ref="char:EOLhyphen"/>ment of ſome learned Divines, of our own Church and Nation.</p>
+            <p>The learned Biſhop <hi>Taylor,</hi> in his Di<g ref="char:EOLhyphen"/>ſcourſe of Laws Penal and Tributary, is plain in this caſe. <hi>Tribute,</hi> ſaith he, <hi>is due by the</hi> 
+               <note place="margin">Duct. Dubit. Lib. 3. p. 125.</note> 
+               <hi>Laws of Religion, where it is due by the Laws of the Nation. And, therefore, thoſe Perſons are very regardleſs of their Eternal Intereſt, who thinks it lawful Prize whatever they can take from the Cuſtom-Houſe,</hi> &amp;c.</p>
+            <p>
+               <hi>Let no Man think that, becauſe ſome Sub<g ref="char:EOLhyphen"/>jects Farm the Cuſtoms, and that the Portion which is concealed, doth not leſſen the Incomes of the Prince, therefore it may be Lawful to hide from them all they can. For the Farmer hath what he gets in the right of the Prince, and in his own right he hath nothing from the Subject, but from his Supreme who is therefore bound to defend that Right, and complain of that Wrong.
+<pb n="11" facs="tcp:108996:7"/>
+And the Husband-Men in the Goſpel, who de<g ref="char:EOLhyphen"/>nied to pay the Stewards of the King the Fruits of the Vineyard, which in their King's Right were demanded of them, were caſt into utter Darkneſs.</hi>
+            </p>
+            <p>And Mr. <hi>Baxter</hi> propoſeth this caſe, when <note place="margin">Chriſti Di<g ref="char:EOLhyphen"/>rect. part 4. p. 164.</note> an Eſtate is intruſted with a Friend, to ſecure it from paying great Taxes or Tribute to the King, whether a Man may keep ſuch a Truſt? and he anſwereth, He may not, the Taxes being Juſt and Legal for the mainte<g ref="char:EOLhyphen"/>nance of the Magiſtrate, or the preſervation of the Common-Wealth.</p>
+            <p>Now that the Non-payment of the Tri<g ref="char:EOLhyphen"/>bute and Cuſtoms, appointed by the Law, is an Offence, ſome will not deny; but they think it hard that ſuch Offences ſhould be ranked with Robberies and Thefts. But, though this Practice may be no Theft, in a Law ſenſe, that having not declared it Fe<g ref="char:EOLhyphen"/>lony; yet, in a Scripture ſenſe, it is no bet<g ref="char:EOLhyphen"/>ter: and for this, I could produce many Di<g ref="char:EOLhyphen"/>vines of great Note, who have ranked this
+<pb n="12" facs="tcp:108996:8"/>
+among the Sins forbidden by the Eighth Commandment.</p>
+            <p>Mr. <hi>Dod,</hi> in the Expoſition of that Com<g ref="char:EOLhyphen"/>mand, hath theſe Words:</p>
+            <p>
+               <hi>For things pertaining to the Common-Wealth, that is another kind of publick Robbery; when Men that have the diſpoſing and ordering of things, that pertain to the Common-Weal, and are to be uſed for the common Good, will take them to themſelves, and make a private Gain of them: this is a foul Fault, and a high De<g ref="char:EOLhyphen"/>gree of Theft, ſo much the more heinous, becauſe it is the more general, and greater wrong by how much it toucheth more.</hi>
+            </p>
+            <p>And Dr. <hi>Towerſon,</hi> in his Explication of <note place="margin">In res ſingu<g ref="char:EOLhyphen"/>lorum majus eſt dominium regis ad bo<g ref="char:EOLhyphen"/>num commu<g ref="char:EOLhyphen"/>ne quàm do<g ref="char:EOLhyphen"/>minorum ſin<g ref="char:EOLhyphen"/>gularium: Grot. de Ju. Bel. &amp; Pa. Lib. 1. c. 1. Sect. 6.</note> the Eighth Commandment, ſaith:</p>
+            <p>
+               <hi>In as much as the Public is capable of a Pro<g ref="char:EOLhyphen"/>perty, as well as private Perſons, in as much as it is not only capable of a Property, but cannot ſub<g ref="char:EOLhyphen"/>ſiſt without it; hence it comes to paſs, there may be a theft of public Goods, as well as private; and conſequently that, as well as the other, to
+<pb n="13" facs="tcp:108996:8"/>
+be concluded within the Force of the Prohibi<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>And from hence it will follow, ſaith that Learned and Pious Doctor:</p>
+            <p>
+               <q>That denying juſt Tributes, are En<g ref="char:EOLhyphen"/>trenchments upon the Goods of the Public, and conſequently proper Thefts.</q>
+            </p>
+            <p>And he afterwards affirms, That <q>As the Miſchief which ariſeth from pu<g ref="char:EOLhyphen"/>blick Thefts, is much greater than that of private ones, conſequently they are much more criminal.</q>
+            </p>
+            <p>
+               <hi>Chemnitius,</hi> amongſt the Sins forbidden by <note place="margin">Peculatus, Furtum quod committitur in Repub. vel ſubtrahendo vel non per<g ref="char:EOLhyphen"/>ſolvendo res communita<g ref="char:EOLhyphen"/>tis. Loci. Theol. pars 2. p. 81.</note> this Command, reckons the Offence which the <hi>Romans</hi> called <hi>Peculatus,</hi> and which he defines to be a Robbing of the Common-Wealth, by with-holding, or not paying what is due to it.</p>
+            <p>To theſe, I ſhall only add the Judgment of two Reverend Prelates, both once well
+<pb n="14" facs="tcp:108996:9"/>
+known and eſteemed in this City, Biſhop <hi>Hall,</hi> I mean, and Biſhop <hi>Hopkins.</hi>
+            </p>
+            <p>The firſt, in his Irrefragable Propoſitions, <note place="margin">Biſhop <hi>Hall</hi>'s Remains, page 348</note> affirms:</p>
+            <p>
+               <q>That no Prejudice of another Man's Right can be ſo dangerous and ſinful, as that Prejudice which is done to the Right of Public and Soveraign Authority.</q>
+            </p>
+            <p>And the other, in his Expoſition of the Lord's Prayer, declares:</p>
+            <p>
+               <q>That he, who detaineth any thing, <note place="margin">page 75</note> which the Sentence of the Law adjudgeth to another, is guilty of Theft and Rob<g ref="char:EOLhyphen"/>bery.</q>
+            </p>
+            <p>And thus I have laid before you the Opi<g ref="char:EOLhyphen"/>nion of ſome eminent Writers, among many others that might be mentioned.</p>
+            <p>Theſe Authorities, I hope, will be ſuffici<g ref="char:EOLhyphen"/>ent, eſpecially ſince there is not any Prote<g ref="char:EOLhyphen"/>ſtant Author of the contrary Opinion. And <note place="margin">Vide Ama<g ref="char:EOLhyphen"/>daeum Gui<g ref="char:EOLhyphen"/>menium, p. 70</note> though a few of the Romiſh Caſuiſts may
+<pb n="15" facs="tcp:108996:9"/>
+be of another Judgment, this I think will give little Reputation to the Cauſe, and as little eaſe to a Proteſtant Conſcience; For <note place="margin">Vid. Decret. Inno 2do. Mart. 1679. &amp; Prop. 36, 37.</note> theſe are the Men who have affirmed it is Lawful to Steal in Neceſſity; that Servants may Steal from their Maſters, when they think their Wages is not ſufficient for their Labour, and have publiſhed other Opinions, ſo impious, that they were condemned as Pernicious and Scandalous by Pope <hi>Innocent</hi> the Eleventh, and his Cardinals.</p>
+            <p>Now this matter, as moſt wherein the Conſciences of Men are concerned, may be conſider'd with reſpect to many particular Ca<g ref="char:EOLhyphen"/>ſes: As what Men may be oblig'd to, when the Tributes impos'd are exceſſive, and carry no proportion to the end for which they are given; as alſo, when we are certain they will be miſapplied, not to the Advantage and Preſervation, but the Ruine of thoſe that pay them.</p>
+            <p>But I omit the conſideration of theſe, and the like caſes, in which we are not concern'd, that I may anſwer ſome Popular Objections
+<pb n="16" facs="tcp:108996:10"/>
+that are made in Defence of the Non-pay<g ref="char:EOLhyphen"/>ment of what the Law requires of us.</p>
+            <p>And one is grounded upon an obſcure place of Scripture, and the Precept of the Text being plain, that ought not to be ob<g ref="char:EOLhyphen"/>jected, but underſtood agreeably to it: However, I will briefly conſider it. And the place is in the 17. cap. of St. <hi>Matth.</hi> from the 24. v. to the end.</p>
+            <p>
+               <hi>They that came to receive the Tribute Mo<g ref="char:EOLhyphen"/>ny,</hi> 
+               <note place="margin">V. 24,</note> 
+               <hi>came to</hi> Peter, <hi>and ſaid, Doth your Maſter pay Tribute?</hi>
+            </p>
+            <p>
+               <hi>He ſaith, Yes. And when they came into</hi> 
+               <note place="margin">V. 25,</note> 
+               <hi>the Houſe, Jeſus prevented him, ſaying, What thinkeſt thou,</hi> Simon? <hi>Of whom do the Kings of the Earth take Cuſtom or Tribute, of their own Children, or of Strangers?</hi>
+            </p>
+            <p>Peter <hi>ſaith unto him, Of Strangers. Jeſus</hi> 
+               <note place="margin">V. 26,</note> 
+               <hi>ſaith unto him, then are the Children free.</hi>
+            </p>
+            <p>
+               <hi>Notwithſtanding, leſt we ſhould offend them,</hi> 
+               <note place="margin">V. 27.</note> 
+               <hi>go to the Sea, and caſt an Hook, and take up the Fiſh that firſt cometh up, and when thou haſt opened his Mouth, thou ſhalt find a piece
+<pb n="17" facs="tcp:108996:10"/>
+of Money, that take, and give unto them for thee and me.</hi>
+            </p>
+            <p>Now there is a great Controverſy among learned Men, What is meant by this Tri<g ref="char:EOLhyphen"/>bute, whether it was the half Shekel that was paid to the Temple, or ſome other Tribute exacted by the <hi>Roman</hi> Emperor: Whatſoe<g ref="char:EOLhyphen"/>ver it were, it matters not much to the pur<g ref="char:EOLhyphen"/>poſe, for which it was objected. Chriſt on<g ref="char:EOLhyphen"/>ly mentions a Priviledg he might claim for <note place="margin">Si cenſum Dei filius ſol<g ref="char:EOLhyphen"/>vit quis tu tantus es, qui non putes eſſe ſolvendum. Ambr. Redite quae ſunt Caeſaris Caeſari, id eſt, Nummum Tributum, <hi>&amp;c.</hi> quomo<g ref="char:EOLhyphen"/>do ipſe red<g ref="char:EOLhyphen"/>didit Tributa pro ſe &amp; Pe<g ref="char:EOLhyphen"/>tro. Hier. in Loc.</note> himſelf and his Domeſtics, as he was the Son of God. And I never heard of any that objected this Scripture, as exempting Men from paying juſt and legal Tributes, but the Pope and his Clergy, and the <hi>German</hi> Anabaptiſts. And ſeveral of the Fathers, were ſo far from thinking this place would juſtify the with-holding of Tribute, that they inforce the Payment of it from this very Paſſage.</p>
+            <p>And there is as little weight in another Po<g ref="char:EOLhyphen"/>pular Objection, as in this, That the Laws injoyning Tribute are Penal, and the Suffer<g ref="char:EOLhyphen"/>ing
+<pb n="18" facs="tcp:108996:11"/>
+of the Penalty, when inflicted, ſatisfies the Law. For Penalties are annexed to ſe<g ref="char:EOLhyphen"/>cure <note place="margin">Lex poenalis eo fine lata eſt ut metu poenae Subdi<g ref="char:EOLhyphen"/>ti cogantur ad officium. Dr. <hi>Sand.</hi> Praelect. 18. p. 313.</note> Obedience to Laws, and cannot juſtify us in the Breach of them. And therefore, when <hi>Lucius Neratius</hi> gave every one he met a Box on the Ear, and withal, paid to every one Twenty Five Aſſes, which was the Penalty impoſed by the Law of the Twelve Tables; <note place="margin">Homo im<g ref="char:EOLhyphen"/>prebus at<g ref="char:EOLhyphen"/>que immani v<gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ord â Aul. Gel. Noct. At. p. 608.</note> He was, notwithſtanding this, judged to be a moſt vile and wicked Perſon. And this be<g ref="char:EOLhyphen"/>ing a Duty, by the expreſs Command of the Law of God, as well as that of Nature, it is abſurd to imagine, the Obligation to it can be taken off by Suffering the Penalty an<g ref="char:EOLhyphen"/>nexed by a Humane Law.</p>
+            <p>I come now to the APPLICATION, the</p>
+            <p>Laſt Thing Promiſed.</p>
+            <p n="1">1. To thoſe who have Tranſgreſſed this Command in the Text, by injuring the
+<pb n="19" facs="tcp:108996:11"/>
+King, in with-holding what by Law and Right belongs unto him.</p>
+            <p n="2">2. To thoſe who have not been guilty of theſe public Frauds, but have conſcienti<g ref="char:EOLhyphen"/>ouſly <hi>rendered to Caeſar the things that are Cae<g ref="char:EOLhyphen"/>ſars,</hi> as well as <hi>to God, the things that are Gods.</hi> And</p>
+            <p>Laſt. To thoſe who are concerned in receiving theſe Tributes in the Text, or are in any Place or Office, by which they are in<g ref="char:EOLhyphen"/>truſted with any part of the Public Reve<g ref="char:EOLhyphen"/>nue.</p>
+            <p n="1">1. To thoſe who have tranſgreſs'd this Command in the Text, injuring their King and their Country, by with-holding what is given by Law for their Security and Sup<g ref="char:EOLhyphen"/>port.</p>
+            <p>Biſhop <hi>Latimer,</hi> a famous Prelate and Martyr of our Church, in his Sermon, on
+<pb n="20" facs="tcp:108996:12"/>
+thoſe words, <hi>Render to Caeſar the things that are Caeſars,</hi> affirms, the King hath as good <note place="margin">p. 206.</note> right to what is given by Parliament, as to any Inheritance; ſtiles thoſe Thieves who with-hold it; and denounceth the Damnation of Hell againſt them. And this Doctrin had ſuch influence upon his Auditors, that ſeveral Hundred Pounds were brought to him for Reſtitution of Wrongs, of this Nature, done <note place="margin">p. 113.</note> to the King, and which he faithfully paid to the Exchequer.</p>
+            <p>And though I have ſmall hopes, this weak Diſcourſe ſhould have the ſame Succeſs, yet I muſt do my Duty, and leave the Succeſs to God, and your own Conſciences.</p>
+            <p>If the Public be capable of a Property, if the King have as true a Right to what is gi<g ref="char:EOLhyphen"/>ven by Law, as a Private Man, to what he enjoys by Inheritance or Purchaſe, then have we the ſame obligation, to make Reſtitution for public as private Frauds.</p>
+            <p>Let, therefore, the Neceſſity of Reſtituti<g ref="char:EOLhyphen"/>on, be applied, to engage to the one as well as the other. If in this we are defective,
+<pb n="21" facs="tcp:108996:12"/>
+               <hi>Non agitur Paenitentia ſed Fingitur,</hi> we do not practice Repentance, but diſſemble and coun<g ref="char:EOLhyphen"/>terfeit it: all is but as the Sackcloth of <hi>A<g ref="char:EOLhyphen"/>hab,</hi> and the disfigured Face of a Phariſee. When we have done wrong to any one, we do not truly repent, unleſs we undo it as much as poſſibly we can, and ſet the injur'd Perſon in the ſame condition we found him. Our Saviour ſaith, <hi>We muſt bring forth Fruits meet for Repentance; Fructum Congruum,</hi> Fruit which is Congruous, or agreeable to Repentance, and amendment of Life. Now when a Man hath wrong'd another by Op<g ref="char:EOLhyphen"/>preſſion or Fraud, if he have unfeigned ſor<g ref="char:EOLhyphen"/>row for this, a hatred and abhorrence of his paſt Injuſtice, is it Congruous, is it Agreea<g ref="char:EOLhyphen"/>ble to this, to keep what is unjuſtly gotten? To declaim againſt the Temptation, and yet keep the Bait by which it prevailed; to con<g ref="char:EOLhyphen"/>feſs wherein we have Injured the King, and not (to uſe the Prophet's Words) <hi>give again what we have Robbed,</hi> are not theſe Matters Incongruous? Are they not contrary, and plainly incouſiſtant one with another? We
+<pb n="22" facs="tcp:108996:13"/>
+ſhould, therefore, conſider, that, unleſs we teſtify the truth of our Repentance, by mak<g ref="char:EOLhyphen"/>ing Reſtitution for Injuries of all kinds, we cannot expect that God will be reconciled to us: When God is reconciled, the Curſe is re<g ref="char:EOLhyphen"/>moved, and all that he hath is ſanctified to him. Such a one, as <hi>Moſes</hi> expreſſeth it, <hi>is bleſſed in the City, and bleſſed in the Field, the</hi> 
+               <note place="margin">Deut. 28. 3.</note> 
+               <hi>Fruit of his Ground, and the Encreaſe of his Kine, the Flocks, and the Sheep, the Basket, and the Store, all is Bleſſed.</hi> But it is not thus, when ill gotten Goods are not reſtored, when our Basket is filled by Fraud, and our Store is the Fruit of Robbery. A Curſe, and not a Bleſſing, always cleaves to ill gotten Wealth, and makes that of <hi>Solomon</hi> infallibly true; <hi>That better is a little with Righteouſneſs,</hi> 
+               <note place="margin">Pro. 16. 8.</note> 
+               <hi>than great Revenues without right.</hi> For there is a Woe denounced againſt him, <hi>who en<g ref="char:EOLhyphen"/>creaſeth that which is not his own.</hi> So that if <note place="margin">Hab. 2. 6.</note> we keep that, to which we have no juſt Ti<g ref="char:EOLhyphen"/>tle, Trade with it, and Gain by it, there is a Curſe goes with the Principal and Intereſt too: <hi>It enters</hi> (as another Prophet ſaith) <note place="margin">Zech. 5. 4.</note>
+               <pb n="23" facs="tcp:108996:13"/>
+               <hi>into the Houſe, remains in the mid'ſt of it, and conſumes it, with the Timber thereof, and the Stones thereof.</hi> A Curſe cleaves to ill gotten Goods, it is moſt ſurely in<g ref="char:EOLhyphen"/>tail'd to the Eſtate, and deſcends with it from Generation to Generation, and is not to be cut off but by Reſtitution.</p>
+            <p>And till we reſtore theſe Earthly Things to which we have no Right and Title, we can have no right to the invaluable Riches of the other Life, as well as the Bleſſings of this.</p>
+            <p>This is plain from what we read of <hi>Za<g ref="char:EOLhyphen"/>cheus,</hi> the Publican, who (as was uſual with Men of that Employment) had been guilty of great Injuſtice, and againſt the Emperor, in all likelihood, as well as private Perſons. And when our Saviour went to his Houſe, he ſpake not one word of comfort to him, till he declared the ſincerity of his Repen<g ref="char:EOLhyphen"/>tance to him, by a full and ample reſtituti<g ref="char:EOLhyphen"/>on: <hi>Behold, half of my Goods I give to the</hi> 
+               <note place="margin">St. Luke 19. cap. 8. 9. v<g ref="char:punc">▪</g>
+               </note> 
+               <hi>Poor; and if I have taken any thing from any Man by falſe Accuſation, I reſtore him
+<pb n="24" facs="tcp:108996:14"/>
+fourfold.</hi> Then, and not till then, Chriſt ſaith, <hi>This Day is Salvation come to thine Houſe.</hi>
+            </p>
+            <p>Now let us not think, that thoſe on<g ref="char:EOLhyphen"/>ly who are guilty of private Frauds, are under theſe great and weighty Obligations to Reſtitution.</p>
+            <p>Can we think, that God will puniſh thoſe who wrong the meaneſt Man, and not be avenged on thoſe who do the ſame to his Vice-gerents? Their Royal Dignity highly aggravates the Violence that is done to their Perſons; and ſo it doth the Injuſtice that is done to their Property. And therefore, in the Parable, with the Killing of the Heir, our Saviour joins the Seiſing his Inheritance, as next to it in guilt. <note place="margin">St. Mat. 21. 38.</note>
+            </p>
+            <p n="2">
+               <pb n="25" facs="tcp:108996:14"/>
+2. As to thoſe who have not been guilty of theſe Public Frauds, but have conſcientiouſly <hi>Rendered to Caeſar the things that are Caeſars,</hi> as well as <hi>to God, the things that are God's:</hi> Let ſuch conſider their happy Condition, and be ever care<g ref="char:EOLhyphen"/>ful to <hi>keep their Conſciences void of Offence, both towards God, and towards Man.</hi>
+            </p>
+            <p>Reſtitution is one of the moſt difficult Duties of Religion, and Men are very hardly perſwaded to perform it ſincerely and fully; and therefore, happy are they who are not by any unjuſt Practices under a<g ref="char:EOLhyphen"/>ny obligation to it.</p>
+            <p>When, therefore, you have opportuni<g ref="char:EOLhyphen"/>ty to enrich your ſelves by public as well as private Frauds, conſider if you uſe the Opportunity, and do the Wrong, all muſt be reſtored, or you are undone for ever.</p>
+            <p>
+               <pb n="26" facs="tcp:108996:15"/>
+And when the Approaches of Death and Eternity ſhall awaken your Conſci<g ref="char:EOLhyphen"/>ences, with what Horror will you reflect upon your former Injuſtice and Diſhoneſty? How will thoſe words of St. <hi>Peter</hi> terri<g ref="char:EOLhyphen"/>fy <note place="margin">2 Ep. 2. 9.</note> an Unjuſt Man, That he <hi>reſerveth ſuch to the Day of Judgment to be pu<g ref="char:EOLhyphen"/>niſhed.</hi> And it will not be an eaſie matter ſo to make Reſtitution for Inju<g ref="char:EOLhyphen"/>ries, as to quiet our Conſciences, there being difficult Caſes, by which the mind of Man may be perplexed and diſturbed. But Juſt and Honeſt Dealing, the excellent Rule to <hi>Render to Caeſar the Things that are Caeſars,</hi> as well as to God, the things that are God's, is a plain, an open, and ſafe way to Heaven. And it is the high<g ref="char:EOLhyphen"/>eſt Madneſs to put our ſelves in that Condition, in which our way to Heaven will be full of Difficulty, Perplexity, and Trouble.</p>
+            <p>
+               <pb n="27" facs="tcp:108996:15"/>
+Conſider how it was with <hi>Judas,</hi> when he had received the Wages of Unrighte<g ref="char:EOLhyphen"/>ouſneſs, he had no quietneſs in his mind, and in Horror he reſtor'd it to thoſe from whom he received it. And the like re<g ref="char:EOLhyphen"/>morſe and anguiſh of mind, will ſeize upon us, if we heap up Wealth, by the like or any other unjuſt or evil Practices. Of this <hi>Solomon</hi> hath given us fair Warn<g ref="char:EOLhyphen"/>ing: <hi>Bread of Deceit is ſweet to a Man,</hi> 
+               <note place="margin">Pro. 10. 17.</note> 
+               <hi>but afterwards his mouth ſhall be fill'd with Gravel.</hi> The meaning is, Men pleaſe themſelves at firſt with the ſucceſsful Arts of Fraud and Injuſtice: But when their Conſciences ſhall be awakened, Remorſe and Horror will ſeiſe upon them, and all their Pleaſure will be turned into Sorrow and Trouble. In this caſe, Men are like thoſe in a Surfeit, nothing will give eaſe, but the Vomitting up the Load that lies upon them. And what a vain Thing is it for a Man to lay thoſe Loads on his Conſcience, under which he can have no eaſe till he Diſgorge, by diſcharging him<g ref="char:EOLhyphen"/>ſelf
+<pb n="28" facs="tcp:108996:16"/>
+of the ill gotten Gain, which if kept, will be but a Moth to conſume what is honeſtly gotten; and for which we muſt alſo account before the Tribu<g ref="char:EOLhyphen"/>nal of Chriſt in another World.</p>
+            <p>Laſt. What hath been ſaid concern<g ref="char:EOLhyphen"/>ing the Obligation that lies upon us, for the paying of juſt and legal Tributes, for the Support of the Government, and the Public Peace, ſhould alſo be conſi<g ref="char:EOLhyphen"/>dered by all thoſe who are concerned in the receiving of theſe Tributes, and who are in any Place or Office, by which they are intruſted, with any part of the Public Revenue. When theſe Men are not content with their competent Sti<g ref="char:EOLhyphen"/>pends, and Enrich themſelves by miſap<g ref="char:EOLhyphen"/>plying the public Treaſure intruſted with them; this is a greater Offence than that before mentioned. It is not only high Injuſtice, and, in a Scripture ſenſe, Rob<g ref="char:EOLhyphen"/>bery, but Treachery; and, if by Oath they are obliged to be faithful, it is Per<g ref="char:EOLhyphen"/>jury
+<pb n="29" facs="tcp:108996:16" rendition="simple:additions"/>
+too. Yet ſuch there have been in all Ages; and this made <hi>Cato</hi> complain, <note place="margin">A. Gel. p. 352.</note> 
+               <hi>Fures privatorum furtorum in Nervo at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in Compedibus aetatem agunt, Fures Publici in Auro at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in Purpura.</hi> Thoſe who Rob private Men, live in Chains and Fet<g ref="char:EOLhyphen"/>ters, but thoſe who Rob the Public, brave it in Gold and Purple.</p>
+            <p>Theſe are the great Peſts of a Com<g ref="char:EOLhyphen"/>mon-Wealth, <note place="margin">Dent tales Reges, tales Judices, tales debitorum redditores, &amp; exactores ip<g ref="char:EOLhyphen"/>ſius Fiſci, quales prae<g ref="char:EOLhyphen"/>cepit eſſe do<g ref="char:EOLhyphen"/>ctrina chri<g ref="char:EOLhyphen"/>ſtiana. Au<g ref="char:EOLhyphen"/>guſt. ep. 5. ad Marel.</note> more miſchievous than thoſe who Rob by Day or Night. The <hi>Ro<g ref="char:EOLhyphen"/>man</hi> State was raiſed to its Height and Glory, under ſuch Men as <hi>Fabricius</hi> and <hi>Scipio,</hi> who ſtudied to Enrich their Coun<g ref="char:EOLhyphen"/>try, and were contented to be Poor them<g ref="char:EOLhyphen"/>ſelves. And the want of this Public Spi<g ref="char:EOLhyphen"/>rit to keep Men from Preying on the Revenue of the Kingdom, is a more fear<g ref="char:EOLhyphen"/>ful Praeſage of Ruine, than any Mon<g ref="char:EOLhyphen"/>ſtrous Births or Blazing Stars.</p>
+            <pb n="30" facs="tcp:108996:17"/>
+            <closer>
+               <hi>From theſe Peſts GOD of his Mercy preſerve us, and ſend us always ſuch as</hi> Mo<g ref="char:EOLhyphen"/>ſes <hi>ſat over</hi> Iſrael.<lb/>
+Men fearing God, and hating Covetouſneſs.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108996:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
